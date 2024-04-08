@@ -25,7 +25,8 @@ A SmartAPI é uma API em Node.js desenvolvida para facilitar a criação e geren
 6. Execute o comando `npx sequelize db:migrate` para criar as tabelas no banco
 7. Rode o projeto `npm start`
 
->[!NOTE]  O servidor roda por padão em http://localhost:3333/
+>[!NOTE]
+>O servidor roda por padão em http://localhost:3333/
 
 #### Rotas da API
 
